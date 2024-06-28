@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equations", "Equations.csproj", "{BE832A7E-968E-421D-A14F-6F2A02CE52C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE832A7E-968E-421D-A14F-6F2A02CE52C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE832A7E-968E-421D-A14F-6F2A02CE52C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE832A7E-968E-421D-A14F-6F2A02CE52C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE832A7E-968E-421D-A14F-6F2A02CE52C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4B7AA73-1D9A-45F1-97CB-02EDD780DF37}
+	EndGlobalSection
+EndGlobal
